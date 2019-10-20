@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ZZADD\Documents\Visual Studio 2015\Projects\ObsVSBuild\CMakeFiles\2ad812238bff6498426ea21bdd38f8a7\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{89BEBD6B-0F7B-3815-9D90-0146CB8C2D8A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

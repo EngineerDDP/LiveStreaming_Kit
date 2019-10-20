@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\WorkDir\obs-studio\plugins\win-capture\get-graphics-offsets\get-graphics-offsets.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WorkDir\obs-studio\plugins\win-capture\get-graphics-offsets\dxgi-offsets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WorkDir\obs-studio\plugins\win-capture\get-graphics-offsets\d3d8-offsets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WorkDir\obs-studio\plugins\win-capture\get-graphics-offsets\d3d9-offsets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\WorkDir\obs-studio\plugins\win-capture\graphics-hook-info.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WorkDir\obs-studio\plugins\win-capture\hook-helpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\WorkDir\obs-studio\plugins\win-capture\get-graphics-offsets\get-graphics-offsets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\WorkDir\obs-studio\plugins\win-capture\get-graphics-offsets\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FA4EB841-5338-353C-91E6-C0EA8763382C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{204D2E56-1393-311C-B73E-A208FD828602}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\WorkDir\obs-studio\plugins\obs-filters\obs-filters.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WorkDir\obs-studio\plugins\obs-filters\color-correction-filter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WorkDir\obs-studio\plugins\obs-filters\async-delay-filter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WorkDir\obs-studio\plugins\obs-filters\crop-filter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WorkDir\obs-studio\plugins\obs-filters\scale-filter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WorkDir\obs-studio\plugins\obs-filters\scroll-filter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WorkDir\obs-studio\plugins\obs-filters\chroma-key-filter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WorkDir\obs-studio\plugins\obs-filters\color-key-filter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WorkDir\obs-studio\plugins\obs-filters\color-grade-filter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WorkDir\obs-studio\plugins\obs-filters\sharpness-filter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WorkDir\obs-studio\plugins\obs-filters\gain-filter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WorkDir\obs-studio\plugins\obs-filters\noise-gate-filter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WorkDir\obs-studio\plugins\obs-filters\mask-filter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WorkDir\obs-studio\plugins\obs-filters\compressor-filter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\WorkDir\obs-studio\plugins\obs-filters\noise-suppress-filter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\ZZADD\Documents\Visual Studio 2015\Projects\ObsVSBuild\plugins\obs-filters\config\obs-filters-config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\WorkDir\obs-studio\plugins\obs-filters\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FA4EB841-5338-353C-91E6-C0EA8763382C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{204D2E56-1393-311C-B73E-A208FD828602}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
